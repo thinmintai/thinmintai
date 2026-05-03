@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="100%" height="100%">
+[!svg<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="100%" height="100%">
   <defs>
     <!-- Background -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -81,4 +81,4 @@
     <!-- Tagline with "SDK" hint -->
     <text x="80" y="49" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif" font-size="14" font-weight="500" fill="#00B4D8" opacity="0.8" letter-spacing="2">SWIFT OSC SDK AGENT</text>
   </g>
-</svg>
+</svg>]
