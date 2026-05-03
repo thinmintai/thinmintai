@@ -1,1 +1,1 @@
-![thinmintai](docs/thinmintai-logo.svg)
+![thinmintai](public/assets/svg/thinmintai-logo.svg)
